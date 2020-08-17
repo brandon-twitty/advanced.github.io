@@ -2,73 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f175e70d-a62a-4ac1-9446-a0bdb6ee91c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/datepicker/jquery.datetimepicker.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/datepicker/jquery.datetimepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/dropdown/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/dropdown/js/nav-dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/dropdown/js/navbar-dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/formoid.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/formstyler/jquery.formstyler.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/formstyler/jquery.formstyler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/formstyler/jquery.formstyler.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/formstyler/jquery.formstyler.theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons-mind/fonts/icons-mind.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons-mind/fonts/icons-mind.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons-mind/fonts/icons-mind.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons-mind/fonts/icons-mind.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons-mind/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/arsconstructionlogo-344x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/arslogo-header-sm-490x121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/face1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/hashes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/index-meta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/popper/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/recaptcha.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/smoothscroll/smooth-scroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sociallikes/social-likes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/socicon/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/tether/tether.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/tether/tether.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/theme/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/theme/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/touchswipe/jquery.touch-swipe.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/vimeoplayer/jquery.mb.vimeo_player.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/cookies-alert-plugin/cookies-alert-core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/cookies-alert-plugin/cookies-alert-script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/gdpr-plugin/gdpr-styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ytplayer/jquery.mb.ytplayer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.mobirise" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw-connect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw-resources.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../container/public_html/include/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/../container/public_html/include/head.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../container/public_html/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../container/public_html/include/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../container/public_html/include/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/../container/public_html/include/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +17,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../container" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -91,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1g8zu6nMtjvkGzQz3SkHC7Itd06" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -98,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -125,6 +63,7 @@
       <updated>1597511226871</updated>
       <workItem from="1597511229745" duration="5235000" />
       <workItem from="1597518590010" duration="3169000" />
+      <workItem from="1597705329930" duration="982000" />
     </task>
     <servers />
   </component>
